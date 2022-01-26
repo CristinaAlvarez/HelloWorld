@@ -1,0 +1,1 @@
+Este README es para comprobar que mi comando git add funciona
